@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Copado Test Case</name>
+    <style>none</style>
+    <subject>Hello Lightning User</subject>
+    <textOnly>**Hello, Copado!
+----------------------------------------------------
+
+This is a sample Lightning Email Template.
+
+Here&apos;s an example of using a merge field: Status.
+
+Feel free to customize this template to suit your needs.
+
+[Image alt text: Copado symbol]</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

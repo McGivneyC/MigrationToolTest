@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- PR Reviewer is also the PR Submitter; PR Submitter&apos;s Reviews are not counted amongst PR Metrics. --></help>
+    <label><!-- PR Submitter --></label>
+    <name>PR_Submitter__c</name>
+</CustomFieldTranslation>

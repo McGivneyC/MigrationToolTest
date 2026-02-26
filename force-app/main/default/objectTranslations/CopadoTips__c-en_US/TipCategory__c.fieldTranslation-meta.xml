@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- What category does your tip fall under? --></help>
+    <label><!-- Tip Category --></label>
+    <name>TipCategory__c</name>
+    <picklistValues>
+        <masterLabel>Best Practice</masterLabel>
+        <translation><!-- Best Practice --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Copado Methodology</masterLabel>
+        <translation><!-- Copado Methodology --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DevOps Process</masterLabel>
+        <translation><!-- DevOps Process --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>How-to&apos;s</masterLabel>
+        <translation><!-- How-to&apos;s --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Release Manager</masterLabel>
+        <translation><!-- Release Manager --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

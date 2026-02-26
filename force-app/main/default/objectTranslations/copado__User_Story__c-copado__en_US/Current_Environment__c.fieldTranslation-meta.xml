@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Current Environment --></label>
+    <name>Current_Environment__c</name>
+    <picklistValues>
+        <masterLabel>Dev1</masterLabel>
+        <translation><!-- Dev1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DevMerge</masterLabel>
+        <translation><!-- DevMerge --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hotfix</masterLabel>
+        <translation><!-- Hotfix --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Production</masterLabel>
+        <translation><!-- Production --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>QA</masterLabel>
+        <translation><!-- QA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Stage</masterLabel>
+        <translation><!-- Stage --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UAT</masterLabel>
+        <translation><!-- UAT --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Set the time/date to run your default Copado Tip of the day. --></help>
+    <label><!-- Default Start Time --></label>
+    <name>DefaultStartTime__c</name>
+</CustomFieldTranslation>

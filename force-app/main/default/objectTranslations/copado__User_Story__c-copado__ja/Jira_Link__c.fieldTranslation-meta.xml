@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Jira Issue LInk --></help>
+    <label><!-- Jira Link --></label>
+    <name>Jira_Link__c</name>
+</CustomFieldTranslation>

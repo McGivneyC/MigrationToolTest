@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Display the default Copado Tip record at this start Date/Time --></help>
+    <label><!-- Display Tip Start Time --></label>
+    <name>TipStartTime__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Please click the &quot;Create Code Analyzer&quot; button and run the unit test. A failed scan will prevent deployment. --></help>
+    <label><!-- Code Analyzer Approval --></label>
+    <name>Code_Analyzer_Approval__c</name>
+</CustomFieldTranslation>

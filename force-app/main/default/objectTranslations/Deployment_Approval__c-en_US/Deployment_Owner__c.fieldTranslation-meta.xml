@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Responsible developer who triggered the deployment --></help>
+    <label><!-- Deployment Owner --></label>
+    <name>Deployment_Owner__c</name>
+    <relationshipLabel><!-- Deployment Approvals --></relationshipLabel>
+</CustomFieldTranslation>

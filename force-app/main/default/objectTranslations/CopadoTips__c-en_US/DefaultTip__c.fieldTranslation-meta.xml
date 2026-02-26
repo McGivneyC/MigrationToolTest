@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Default Tip of the day for a set period of time. --></help>
+    <label><!-- Default Tip --></label>
+    <name>DefaultTip__c</name>
+</CustomFieldTranslation>

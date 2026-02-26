@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Total Number of Required Approvals Received; the PR Submitter&apos;s Reviews are not counted amongst PR Metrics. --></help>
+    <label><!-- Total Required Approvals Received --></label>
+    <name>Total_Required_Approvals_Received__c</name>
+</CustomFieldTranslation>

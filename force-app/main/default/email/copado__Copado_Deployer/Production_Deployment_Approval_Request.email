@@ -1,0 +1,26 @@
+<messaging:emailTemplate subject="Production Deployment Approval Required - {!Deployment_Approval__c.Name}" 
+                        recipientType="User" relatedToType="Deployment_Approval__c">
+<messaging:htmlEmailBody >
+<html>
+<body>
+<p>Dear {!Recipient.FirstName},</p>
+
+<p>A production deployment requires your approval:</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr><td><strong>Request ID:</strong></td><td>{!Deployment_Approval__c.Name}</td></tr>
+    <tr><td><strong>What's Changing:</strong></td><td>{!Deployment_Approval__c.Deployment_Summary__c}</td></tr>
+    <tr><td><strong>Target Environment:</strong></td><td>{!Deployment_Approval__c.Target_Environment__c}</td></tr>
+    <tr><td><strong>Deployment Owner:</strong></td><td>{!Deployment_Approval__c.Deployment_Owner__c}</td></tr>
+    <tr><td><strong>Copado Promotion:</strong></td><td>{!Deployment_Approval__c.Copado_Promotion__c}</td></tr>
+</table>
+
+<p><strong>SLA:</strong> Please respond within 24 hours or this will escalate to Tina.</p>
+
+<p>Click here to approve/reject: <a href="{!URLFOR($Action.Deployment_Approval__c.View, Deployment_Approval__c.Id, [retURL='/'])}">{!Deployment_Approval__c.Name}</a></p>
+
+<p>Best regards,<br/>Copado Deployment System</p>
+</body>
+</html>
+</messaging:htmlEmailBody>
+</messaging:emailTemplate>

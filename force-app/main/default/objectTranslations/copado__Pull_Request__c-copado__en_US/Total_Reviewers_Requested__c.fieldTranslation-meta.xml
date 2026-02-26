@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Count of Reviewers Requested; the PR Submitter&apos;s Reviews are not counted amongst PR Metrics. --></help>
+    <label><!-- Total Reviewers Requested --></label>
+    <name>Total_Reviewers_Requested__c</name>
+</CustomFieldTranslation>
